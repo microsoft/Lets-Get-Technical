@@ -19,6 +19,9 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 | Provision of Microsoft Reactor Branding               | x                             |                                              |
 | Provision of Speakers                                 | x (Cloud Advocates)           | x (Local Subject Matter Experts)             | 
 | Creation of Content (Deck, promotional materials)     |                               | x                                            |
+| Resources                                             |                               | x                                            |
+| Demand Generation                                     | x                             | x                                            |
+| Weekly/Daily attendance updates                       | x                             |                                              |
 
 <br/>
 
