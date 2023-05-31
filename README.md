@@ -19,9 +19,15 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 | Provision of Microsoft Reactor Branding               | x                             |                                              |
 | Provision of Speakers                                 | x (Cloud Advocates)           | x (Local Subject Matter Experts)             | 
 | Creation of Content (Deck, promotional materials)     |                               | x                                            |
+| Localisation of Code of Conduct                       |                               | x
 | Resources                                             |                               | x                                            |
 | Demand Generation                                     | x                             | x                                            |
 | Weekly/Daily attendance updates                       | x                             |                                              |
+| Runsheet and Pre-event guidance                       | x                             |                                              |
+| Attendee Survey                                       | x                             |                                              |
+| Onsite Production                                     | x                             |                                              |
+| Post Event Report                                     | x                             |                                              |
+
 
 <br/>
 
@@ -37,13 +43,17 @@ Through these great partnership with the various markets, it also allowed furthe
 ## Quick start
 
 1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/Lets-Get-Technical-Brief.docx) 
-2. Send brief over to suzanne.chen@microsoft.com 
-3. We'll be in touch shortly 
+2. Refer to Let's Get Technical Calendar section below for a visibility of when it may be most ideal for your market
+3. Send brief over to suzanne.chen@microsoft.com 
+4. We'll be in touch in the next three working days.  
 
 ## Resources 
 * Brand/Powerpoint Templates for your presentation deck 
-* Sample emails 
+* Promotional materials 
+* Code of Conduct (in English) 
 
 <br/>
-
----
+## Let's Get Technical Calendar   
+|                                           | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
+| --------------------------------------    | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+| Let's Get Technical                       | Thailand                  | Singapore                 |                           |                           |                           |
