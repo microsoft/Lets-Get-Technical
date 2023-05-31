@@ -29,8 +29,6 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 | Post Event Report                                     | x                             |                                              |
 
 
-<br/>
-
 ## Success Stories 
 Here are the some examples of the Let's Get Technical series in the two markets. 
 * [Let's Get Technical - Philippines](https://www.youtube.com/watch?v=fMBfQL7Tvkg)
@@ -38,12 +36,10 @@ Here are the some examples of the Let's Get Technical series in the two markets.
 
 Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
-<br/>
-
 ## Quick start
 
 1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/Lets-Get-Technical-Brief.docx) 
-2. Refer to Let's Get Technical Calendar section below for a visibility of when it may be most ideal for your market
+2. Refer to Calendar section below for a visibility of when it may be most ideal for your market
 3. Send brief over to suzanne.chen@microsoft.com 
 4. We'll be in touch in the next three working days.  
 
@@ -52,9 +48,8 @@ Through these great partnership with the various markets, it also allowed furthe
 * Promotional materials 
 * Code of Conduct (in English) 
 
-<br/>
-## Let's Get Technical Calendar   
-                                            | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
+## Calendar
+| Event                                     | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
 | --------------------------------------    | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Let's Get Technical                       | Thailand                  | Singapore                 |                           |                           |                           |
 
