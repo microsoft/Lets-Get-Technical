@@ -19,7 +19,7 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 | Provision of Microsoft Reactor Branding               | x                             |                                              |
 | Provision of Speakers                                 | x (Cloud Advocates)           | x (Local Subject Matter Experts)             | 
 | Creation of Content (Deck, promotional materials)     |                               | x                                            |
-| Localisation of Code of Conduct                       |                               | x
+| Localisation of Code of Conduct                       |                               | x                                            |
 | Resources                                             |                               | x                                            |
 | Demand Generation                                     | x                             | x                                            |
 | Weekly/Daily attendance updates                       | x                             |                                              |
@@ -49,8 +49,8 @@ Through these great partnership with the various markets, it also allowed furthe
 * Code of Conduct (in English) 
 
 ## Calendar
-| Event                                     | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
-| --------------------------------------    | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| Let's Get Technical                       | Thailand                  | Singapore                 |                           |                           |                           |
+| Event                      | March 2023           | April 2023           | May 2023             | June 2023            | July 2023            | August 2023          | September 2023       | 
+| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| Let's Get Technical        | Philippines               |                           | Thailand                  | Singapore                 |                           |
 
 <br/>
