@@ -26,16 +26,20 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 Here are the some examples of the Let's Get Technical series in the two markets. 
 * [Let's Get Technical - Philippines](https://www.youtube.com/watch?v=fMBfQL7Tvkg)
 * [Let's Get Technical - Thailand](https://www.youtube.com/watch?v=OdSF9ZcoYT0)  
+
 Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
 <br/>
 
 ## Quick start
-Brief 
-<br/>
+
+1. Complete brief 
+2. Send brief over to suzanne.chen@microsoft.com 
+3. We'll be in touch shortly 
+
 ## Resources 
-Brand/Powerpoint Templates
-Previous event series - The Philippines  
+* Brand/Powerpoint Templates for your presentation deck 
+* Sample emails 
 
 <br/>
 
