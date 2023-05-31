@@ -1,33 +1,37 @@
-# Project
+# Microsoft Let's Get Technical Series 
+Here's how partner Microsoft Reactor and get started to landing a Let's Get Technical series in your market. 
+<br/>
+## Background
+The Let’s Get Technical Series is a series of three short virtual events piloting first at the regional markets in Asia. It first inaugurated in Indonesia, then the Philippines, recently in Thailand. 
+<br/>
+## Objectives 
+The 60 minute-event series is aimed to amplify the voices of our Community Leaders and Subject Matter Experts, and to engage developers from the local markets, help them to achieve success, and at the same time, grow awareness of our Reactor programs. 
+<br/>
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+👉 We are inviting you to partner with us to bring this series to your market, so that your community can be heard. 
+<br/>
+## Processes 
+| Tasks                                                 | Provision by The Reactor      | Provision by Subsidiary/Community Leader     |
+| -------------------------------------------------     | ------------------------------| -------------------------------------------- |
+| Event Structure/Consultation                          | x                             |                                              |
+| Event Brief                                           |                               | x                                            |
+| Creation of Registration Page                         | x                             |                                              |
+| Provision of Microsoft Reactor Branding               | x                             |                                              |
+| Provision of Speakers                                  | x (Cloud Advocates)           | x (Local Subject Matter Experts)             |
 
-As the maintainer of this project, please make a few updates:
+<br/>
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Success Stories 
 
-## Contributing
+<br/>
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## Quick start
+Brief 
+<br/>
+## Resources 
+Brand/Powerpoint Templates
+Previous event series - The Philippines  
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+<br/>
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+---
