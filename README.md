@@ -49,8 +49,8 @@ Through these great partnership with the various markets, it also allowed furthe
 * Code of Conduct (in English) 
 
 ## Calendar
-| Event                      | March 2023           | April 2023           | May 2023             | June 2023            | July 2023            | August 2023          | September 2023       | 
-| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Let's Get Technical        | Philippines               |                           | Thailand                  | Singapore                 |                           |
+| Event                      | February 2023        | March 2023           | April 2023           | May 2023             | June 2023            | July 2023            | August 2023          | September 2023       | 
+| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| Let's Get Technical        | Indonesia            | Philippines          |                      | Thailand             | Singapore            |                      |                      |                      |
 
 <br/>
