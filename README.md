@@ -38,7 +38,7 @@ Through these great partnership with the various markets, it also allowed furthe
 
 ## Quick start
 
-1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/Assets/Lets-Get-Technical-Brief.docx) 
+1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Brief.docx) 
 2. Refer to Calendar section below for a visibility of when it may be most ideal for your market
 3. Send brief over to suzanne.chen@microsoft.com 
 4. We'll be in touch in the next three working days.  
