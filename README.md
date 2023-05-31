@@ -1,5 +1,5 @@
 # Microsoft Let's Get Technical Series 
-Here's how partner Microsoft Reactor and get started to landing a Let's Get Technical series in your market. 
+Here's how you can partner Microsoft Reactor and get started to landing a Let's Get Technical series in your market. 
 <br/>
 ## Background
 The Let’s Get Technical Series is a series of three short virtual events piloting first at the regional markets in Asia. It first inaugurated in Indonesia, then the Philippines, recently in Thailand. 
@@ -8,7 +8,7 @@ The Let’s Get Technical Series is a series of three short virtual events pilot
 The 60 minute-event series is aimed to amplify the voices of our Community Leaders and Subject Matter Experts, and to engage developers from the local markets, help them to achieve success, and at the same time, grow awareness of our Reactor programs. 
 <br/>
 
-👉 We are inviting you to partner with us to bring this series to your market, so that your community can be heard. 
+👉 We are inviting you to partner with us to bring this series to your market, so that your voices of your local communities can be heard and the latest technologies can be brought to your market. 
 <br/>
 ## Processes 
 | Tasks                                                 | Provision by The Reactor      | Provision by Subsidiary/Community Leader     |
@@ -23,6 +23,10 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 <br/>
 
 ## Success Stories 
+Here are the some examples of the Let's Get Technical series in the two markets. 
+* [Let's Get Technical - Philippines](https://www.youtube.com/watch?v=fMBfQL7Tvkg)
+* [Let's Get Technical - Thailand](https://www.youtube.com/watch?v=OdSF9ZcoYT0)  
+Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
 <br/>
 
