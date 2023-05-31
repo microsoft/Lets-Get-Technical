@@ -36,7 +36,7 @@ Through these great partnership with the various markets, it also allowed furthe
 
 ## Quick start
 
-1. Complete brief 
+1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/Lets-Get-Technical-Brief.docx) 
 2. Send brief over to suzanne.chen@microsoft.com 
 3. We'll be in touch shortly 
 
