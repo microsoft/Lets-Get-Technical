@@ -54,7 +54,7 @@ Through these great partnership with the various markets, it also allowed furthe
 
 <br/>
 ## Let's Get Technical Calendar   
-|                                           | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
+                                            | May 2023                  | June 2023                 | July 2023                 | August 2023               | September 2023            | 
 | --------------------------------------    | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Let's Get Technical                       | Thailand                  | Singapore                 |                           |                           |                           |
 
