@@ -44,6 +44,8 @@ Through these great partnership with the various markets, it also allowed furthe
 4. We'll be in touch in the next three working days.  
 
 ## Resources 
+These are some resources you may find useful for localisation. 
+
 * [Speakers invitation](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Speakers-Invitation.docx)
 * [Brand/Powerpoint Templates](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Cover-Slides.pptx) for your presentation  
 * Customisable [Promotional materials](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Promo-Slides.pptx)
