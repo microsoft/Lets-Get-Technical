@@ -54,6 +54,6 @@ These are some resources you may find useful for localisation.
 ## Calendar
 | Event                      | February 2023        | March 2023           | April 2023           | May 2023             | June 2023            | July 2023            | August 2023          | September 2023       | 
 | -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Let's Get Technical        | Indonesia            | Philippines          |                      | Thailand             | Singapore            |                      |                      |                      |
+| Let's Get Technical        | Indonesia            | Philippines          |                      | Thailand             | Singapore            |  Vietnam             |                      |                      |
 
 <br/>
