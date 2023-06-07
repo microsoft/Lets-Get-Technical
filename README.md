@@ -1,4 +1,7 @@
 # Microsoft Let's Get Technical Series 
+![Microsoft Lets Get Technical](./assets/Lets-Get-Technical-Header.png)
+
+
 Here's how you can partner Microsoft Reactor and get started to landing a Let's Get Technical series in your market. 
 <br/>
 ## Background
