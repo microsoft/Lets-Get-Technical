@@ -29,7 +29,7 @@ The 60 minute-event series is aimed to amplify the voices of our Community Leade
 | Runsheet and Pre-event guidance                       | x                             |                                              |
 | Attendee Survey                                       | x                             |                                              |
 | Onsite Production                                     | x                             |                                              |
-| Post Event Report                                     | x                             |                                              |
+| Post Event Report (Registration count, companies)     | x                             |                                              |
 
 
 ## Success Stories 
@@ -40,18 +40,18 @@ Here are the some examples of the Let's Get Technical series in the two markets.
 Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
 ## Quick start
-
 1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Brief.docx) 
 2. Refer to Calendar section below for a visibility of when it may be most ideal for your market
 3. Send brief over to suzanne.chen@microsoft.com 
-4. We'll be in touch in the next three working days.  
+4. We'll be in touch in the next three working days to clarify and finalise details.
+5. We'll work on event registration page once details are finalised. 
 
 ## Resources 
 These are some resources you may find useful for localisation. 
-
 * [Speakers invitation](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Speakers-Invitation.docx)
-* [Brand/Powerpoint Templates](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Cover-Slides.pptx) for your presentation  
-* Customisable [Promotional materials](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Promo-Slides.pptx)
+* [Brand/Powerpoint Templates](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Cover-Slides.pptx) for your presentation
+* Customisable [Promotional materials - Powerpoint decks](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Promo-Slides.pptx)
+* Customisable [Invitation Emails]
 * Code of Conduct (in English) 
 
 ## Calendar
