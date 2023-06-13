@@ -55,7 +55,7 @@ These are some resources you may find useful for localisation.
 * [Speakers invitation](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Speakers-Invitation.docx)
 * [Brand/Powerpoint Templates](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Cover-Slides.pptx) for your presentation
 * Customisable [Promotional materials - Powerpoint decks](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Promo-Slides.pptx)
-* Customisable [Invitation Emails]
+* Customisable [Invitation Emails](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Let's-Get-Technical-Promo-Invitation-Mail.docx)
 * Code of Conduct (in English) 
 
 ## Calendar
