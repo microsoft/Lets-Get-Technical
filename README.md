@@ -42,8 +42,13 @@ Here are the some examples of the Let's Get Technical series in the two markets.
 Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
 ## Quick start
-1. Brainstorm latest trending topics in your markets.
-   - Some topics that we discussed previously (latest as of June 2023)
+1. Brainstorm latest trending topics in your markets. Some topics that we discussed previously (latest as of June 2023) are as follow: 
+   - Deploy a website to Azure with Azure App Service
+   - Publish a static web app with Microsoft Azure and GitHub
+   - Develop AI solutions with Azure OpenAI
+   - Build apps efficiently with AI Copilot
+   - Deliver quality services with Infrastructure as Code (IaC) on Azure DevOps 
+   You will notice that topics are generally action verbs (i.e. we want to put ideas into action)  
 2. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Brief.docx) 
 4. Refer to Calendar section below for a visibility of when it may be most ideal for your market
 5. Send brief over to suzanne.chen@microsoft.com 
