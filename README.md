@@ -68,6 +68,6 @@ H1 of 2023
 H2 of 2023
 | Event                      | Jul 2023             | Aug 2023                        | Sep 2023             | Oct 2023             | Nov 2023             | Dec 2023             |
 | -------------------------- | -------------------- | ------------------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Let's Get Technical        | Vietnam              | Greater China, Indonesia        |                      |                      |                      | -                    |
+| Let's Get Technical        | Vietnam              | Greater China, Indonesia        |                      |                      | Thailand             | -                    |
 
 <br/>
