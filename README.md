@@ -61,9 +61,9 @@ These are some resources you may find useful for localisation.
 ## Calendar
 H1 of 2023 
 
-| Event                      | Jan 2023             | Feb 2023             | Mar 2023             | Apr 2023             | May 2023             | Jun 2023             | 
-| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Let's Get Technical        |  -                   | Indonesia            | Philippines          |                      | Thailand             | Singapore            |  
+| Event                      | Jan 2023             | Feb 2023                        | Mar 2023             | Apr 2023             | May 2023             | Jun 2023             | 
+| -------------------------- | -------------------- | ------------------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| Let's Get Technical        |  -                   | Indonesia                       | Philippines          |                      | Thailand             | Singapore            |  
 
 H2 of 2023
 | Event                      | Jul 2023             | Aug 2023                        | Sep 2023             | Oct 2023             | Nov 2023             | Dec 2023             |
