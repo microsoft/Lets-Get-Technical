@@ -42,11 +42,14 @@ Here are the some examples of the Let's Get Technical series in the two markets.
 Through these great partnership with the various markets, it also allowed further collaborations including the Thailand Developer Week where we partnered to deliver a week-long hybrid event to the local developers. 
 
 ## Quick start
-1. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Brief.docx) 
-2. Refer to Calendar section below for a visibility of when it may be most ideal for your market
-3. Send brief over to suzanne.chen@microsoft.com 
-4. We'll be in touch in the next three working days to clarify and finalise details.
-5. We'll work on event registration page once details are finalised. 
+1. Brainstorm latest trending topics in your markets.
+   ** Some topics that we discussed previously (latest as of June 2023)
+   
+3. Complete [brief](https://github.com/microsoft/Lets-Get-Technical/tree/main/assets/Lets-Get-Technical-Brief.docx) 
+4. Refer to Calendar section below for a visibility of when it may be most ideal for your market
+5. Send brief over to suzanne.chen@microsoft.com 
+6. We'll be in touch in the next three working days to clarify and finalise details.
+7. We'll work on event registration page once details are finalised. 
 
 ## Resources 
 These are some resources you may find useful for localisation. 
@@ -59,12 +62,12 @@ These are some resources you may find useful for localisation.
 ## Calendar
 H1 of 2023 
 
-| Event                      | January 2023         | February 2023        | March 2023           | April 2023           | May 2023             | June 2023            | 
+| Event                      | Jan 2023             | Feb 2023             | Mar 2023             | Apr 2023             | May 2023             | Jun 2023             | 
 | -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Let's Get Technical        |  -                   | Indonesia            | Philippines          |                      | Thailand             | Singapore            |  
 
 H2 of 2023
-| Event                      | July 2023            | August 2023          | September 2023       | October 2023         | November 2023        | December 2023        |
+| Event                      | Jul 2023             | Aug 2023             | Sep 2023             | Oct 2023             | Nov 2023             | Dec 2023             |
 | -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Let's Get Technical        | Vietnam              | Greater China        |                      |                      |                      | -                    |
 
