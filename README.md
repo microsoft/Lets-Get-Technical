@@ -10,7 +10,7 @@ The Let’s Get Technical is a series of three short 55-minute virtual events, d
 Each event in the Let's Get Technical series is carefully curated and will feature a well-diversed group of guest speakers who are experts in their respective fields. They will share their insights, experiences, and thought-provoking ideas during interactive sessions.
 <br/>
 ## Objectives 
-The 60 minute-event series is aimed to amplify the voices of our Community Leaders and Subject Matter Experts, and to engage developers from the local markets, help them to achieve success, and at the same time, grow awareness of our Reactor programs. 
+The 55-minute event series is aimed to amplify the voices of our Community Leaders and Subject Matter Experts, and to engage developers from the local markets, help them to achieve success, and at the same time, grow awareness of our Reactor programs. 
 <br/>
 
 👉 We are inviting you to partner with us to bring this series to your market, so that your voices of your local communities can be heard and the latest technologies can be brought to your market. 
