@@ -57,8 +57,15 @@ These are some resources you may find useful for localisation.
 * Code of Conduct (in English) 
 
 ## Calendar
-| Event                      | February 2023        | March 2023           | April 2023           | May 2023             | June 2023            | July 2023            | August 2023          | September 2023       | 
-| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Let's Get Technical        | Indonesia            | Philippines          |                      | Thailand             | Singapore            |  Vietnam             | Greater China        |                      |
+H1 of 2023 
+
+| Event                      | January 2023         | February 2023        | March 2023           | April 2023           | May 2023             | June 2023            | 
+| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| Let's Get Technical        |  -                   | Indonesia            | Philippines          |                      | Thailand             | Singapore            |  
+
+H2 of 2023
+| Event                      | July 2023            | August 2023          | September 2023       | October 2023         | November 2023        | December 2023        |
+| -------------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| Let's Get Technical        | Vietnam              | Greater China        |                      |                      |                      | -                    |
 
 <br/>
